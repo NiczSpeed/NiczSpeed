@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mateusz Libera</h1>
-<h3 align="center">Junior Java Software Engineer at the beginning of his journey with commercial programming and a student of computer science at Silesian University of Technology. I am a person committed to the task at hand, pursuing my goals and dreams. In love with programming and learning new solutions, wholeheartedly devoted to Java. </h3>
+<h3 align="center">Junior Java Software Engineer and a student of computer science at Silesian University of Technology. I am a person committed to the task at hand, pursuing my goals and dreams. In love with programming and learning new solutions, wholeheartedly devoted to Java. </h3>
 
 - 👨‍💻 All of my projects are available here [Repositories](https://github.com/NiczSpeed?tab=repositories)
 
