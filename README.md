@@ -26,7 +26,6 @@
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373829/maven.svg" alt="maven" width="40" height="40"/></a>
 <a href="https://hibernate.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353874/hibernate.svg" alt="hibernate" width="40" height="40"/> </a>
 <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idD7RfhCFS/id3KSPzOxb.png" alt="junit" width="40" height="40"/> </a>
-<a href="https://site.mockito.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mockito/mockito/master/src/javadoc/org/mockito/logo.png" alt="mockito" height="40"/> </a>
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373553/docker.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://portal.azure.com/#home" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353467/azure-icon.svg" alt="azure" " height="40"/> </a>
 <a href="https://portal.azure.com/#home" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/448271/azure-devops.svg" alt="azure devops" width="40" height="40"/> </a>
